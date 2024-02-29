@@ -1,11 +1,8 @@
-# Task-Management-App
-
-Setup instruction
 Step 1: Install dependencies
 
-Go to /backend directory for backend setup and run npm install
+  Go to /backend directory for backend setup and run npm install
 
-Go to /frontend directory for frontend setup and run npm install
+  Go to /frontend directory for frontend setup and run npm install
 
 Step 2: Configure the MongoDB connection url Go to the backend directory and create .env file and put your MongoDB connection URL as follows MONGODB_PATH=your-mongodb-connection-url
 
@@ -13,6 +10,6 @@ Step 3: Change Server port and CORS origin (Optional) By default your server wil
 
 Step 4: Run the application
 
-Go to /backend directory and run npm run serve to start up yout Node server
+  Go to /backend directory and run npm run serve to start up yout Node server
 
-Go to /frontend directory and run npm run start to setup your frontend
+  Go to /frontend directory and run npm run start to setup your frontend
